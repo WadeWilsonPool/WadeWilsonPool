@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WadeWilsonPool
 - 👀 I’m interested in software developement.
-- 🌱 I’m currently learning web design.
+- 🌱 I’m currently learning Ruby.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
