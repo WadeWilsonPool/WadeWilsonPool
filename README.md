@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @WadeWilsonPool
-- 👀 I’m interested in software developement.
-- 🌱 I’m currently learning Ruby.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Ruby on Rails.
 - 📫 How to reach me shawna.cook24@gmail.com.
 
 <!---
