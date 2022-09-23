@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developement.
 - 🌱 I’m currently learning Ruby.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me shawnacook2012@gmail.com.
+- 📫 How to reach me shawna.cook24@gmail.com.
 
 <!---
 WadeWilsonPool/WadeWilsonPool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
